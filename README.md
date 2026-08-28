@@ -126,4 +126,4 @@ This driver includes DMI quirk entries for multiple laptop models across vendors
 
 ## 📄 License
 
-This project is licensed under the [GNU General Public License v2.0](LICENSE) - GPL-2.0-only / GPL-2.0-or-later.
+This project is licensed under the [GNU General Public License v2.0](LICENSE) (SPDX: GPL-2.0-only).
